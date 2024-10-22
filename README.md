@@ -2,4 +2,4 @@
 
 this my first repository.
 <br>
-auther-muskan khan
+author - muskan khan(Apna college)
